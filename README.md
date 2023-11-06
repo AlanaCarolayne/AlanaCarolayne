@@ -1,9 +1,15 @@
-👋 Olá! Sou a Alana, uma apaixonada por tecnologia e desenvolvimento Full-Stack com um forte foco no Front-End. Estou determinada a criar experiências digitais incríveis e inovadoras.
 
-📚 Minha jornada acadêmica me proporcionou um sólido conhecimento teórico na área de tecnologia. Atualmente, estou no segundo semestre do curso de Sistemas de Informações na FIAP.
+ <h2> 👋 Olá! Sou a Alana. </h2>
 
-💻 Minhas habilidades práticas incluem programação em Java, criação de páginas web com HTML, estilização com CSS, dinamismo com JavaScript e a utilização do Bootstrap para o desenvolvimento ágil de interfaces.
+<h3> 📚 Sou uma estudante de Sistemas de Informação na FIAP, atualmente no segundo semestre.</h3> 
 
-📧 Vamos trabalhar juntOs? Entre em contato comigo em (https://www.linkedin.com/in/alana-siqueira-6469ba235/) ou pelo email alanac248@gmail.com para discutir oportunidades de colaboração e desenvolvimento tecnológico!
+<h3>🚀 Atualmente, meu foco de estudo está no desenvolvimento Front-End, enquanto continuo a minha jornada para me tornar uma desenvolvedora Full-Stack. </h3>
+<h3 align="left">💻Linguagens e ferramentas:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-#DesenvolvimentoFullStack #FrontEnd #Tecnologia #Inovação
+<hr>
+<h3 align="left">📧 Entre em contato comigo: </h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/alana-carolayne-6469ba235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alana-carolayne-6469ba235" height="30" width="40" /></a>
+
+</p>
