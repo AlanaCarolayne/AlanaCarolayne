@@ -1,7 +1,7 @@
 
  <h2> 👋 Olá! Sou a Alana. </h2>
 
-<h3> 📚 Sou uma estudante de Sistemas de Informação na FIAP, atualmente no segundo semestre.</h3> 
+<h3> 📚 Sou uma estudante de Sistemas de Informação na FIAP, atualmente no terceiro semestre.</h3> 
 
 <h3>🚀 Atualmente, meu foco de estudo está no desenvolvimento Front-End, enquanto continuo a minha jornada para me tornar uma desenvolvedora Full-Stack. </h3>
 <h3 align="left">💻Linguagens e ferramentas:</h3>
