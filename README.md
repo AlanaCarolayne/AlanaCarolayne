@@ -1,5 +1,5 @@
 
- <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Electrolize&weight=900&size=35&duration=6000&pause=1000&color=6A009A&random=false&width=435&lines=Ol%C3%A1!+Sou+a+Alana." alt="Typing SVG" /></a> </h2>
+ <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=electrolize&weight=900&size=25&duration=5005&pause=1005&color=DCC2F7&random=false&width=435&lines=Oi%2C+sou+a+Alana!" alt="Typing SVG" /></a> </h2>
 
 <h3> 📚 Sou uma estudante de Sistemas de Informação na FIAP, atualmente no terceiro semestre.</h3> 
 
