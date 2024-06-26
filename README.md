@@ -1,15 +1,39 @@
+ <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Titillium+Web&weight=300&size=30&duration=4999&pause=996&color=FFFFFF&random=false&width=435&lines=Oi%2C+sou+a+Alana!" alt="Typing SVG" /></a></h2>
 
- <h2> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=electrolize&weight=900&size=25&duration=5005&pause=1005&color=DCC2F7&random=false&width=435&lines=Oi%2C+sou+a+Alana!" alt="Typing SVG" /></a> </h2>
+<h3> 📚 Sobre mim </h3>
 
-<h3> 📚 Sou uma estudante de Sistemas de Informação na FIAP, atualmente no terceiro semestre.</h3> 
+<p >  Sou uma ou uma estudante de Sistemas de Informação em busca de novos conhecimentos e desafios no mundo do desenvolvimento de software.
+</p>
 
-<h3>🚀 Atualmente, meu foco de estudo está no desenvolvimento Front-End, enquanto continuo a minha jornada para me tornar uma desenvolvedora Full-Stack. </h3>
+<p> Atualmente estou aprendendo React, e aprimorando meus conhecimentos em desenvolvimento web</p>
+
+<hr>
 <h3 align="left">💻Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" align="right" width="230px" height=auto>
+<h4>  Linguagens de Programação: </h4>
+
+  - JavaScript
+  - Java
+<h4>Desenvolvimento Web:</h4>
+
+  - HTML, CSS, JavaScript
+
+  - React, Node.js 
+
+  - Bootstrap , Tailwind
+<h4> Ferramentas e Tecnologias: </h4>
+
+ - Git, GitHub
+
 
 <hr>
 <h3 align="left">📧 Entre em contato comigo: </h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/alana-siqueira-6469ba235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/alana-carolayne-6469ba235" height="30" width="40" /></a>
-
+<p align="left">- LinkedIn:
+<a href="https://www.linkedin.com/in/alana-siqueira-6469ba235" target="blank">Alana Siqueira</a>
 </p>
+
+<p> Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato comigo.</p>
+
+
+
+![Snake animation](https://github.com/AlanaCarolayne/AlanaCarolayne/blob/output/github-contribution-grid-snake.svg)
