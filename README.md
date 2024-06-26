@@ -2,14 +2,15 @@
 
 <h3> 📚 Sobre mim </h3>
 
-<p >  Sou uma ou uma estudante de Sistemas de Informação em busca de novos conhecimentos e desafios no mundo do desenvolvimento de software.
+<p style="font-size: 16px;">  Sou uma ou uma estudante de Sistemas de Informação em busca de novos conhecimentos e desafios no mundo do desenvolvimento de software.
 </p>
 
-<p> Atualmente estou aprendendo React, e aprimorando meus conhecimentos em desenvolvimento web</p>
+<p style="font-size: 16px;"> Atualmente estou aprendendo React, e aprimorando meus conhecimentos em desenvolvimento web</p>
 
 <hr>
 <h3 align="left">💻Linguagens e ferramentas:</h3>
 <img src="https://media1.tenor.com/m/DimzPZMypFcAAAAd/laptop.gif" align="right" width="230px" height=auto>
+<div style="font-size: 16px;">
 <h4>  Linguagens de Programação: </h4>
 
   - JavaScript
@@ -25,12 +26,13 @@
 
  - Git, GitHub
 
-
+</div>
 <hr>
 <h3 align="left">📧 Entre em contato comigo: </h3>
-<p align="left">- LinkedIn:
+<p align="left" style="font-size: 16px;">- LinkedIn:
 <a href="https://www.linkedin.com/in/alana-siqueira-6469ba235" target="blank">Alana Siqueira</a>
 </p>
 
-<p> Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato comigo.</p>
+<p style="font-size: 16px;"> Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato comigo.</p>
+
 
