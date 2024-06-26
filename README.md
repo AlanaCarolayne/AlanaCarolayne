@@ -2,7 +2,7 @@
 
 <h3> 📚 Sobre mim </h3>
 
-<p style="font-size: 16px;">  Sou uma ou uma estudante de Sistemas de Informação em busca de novos conhecimentos e desafios no mundo do desenvolvimento de software.
+<p style="font-size: 16px;">  Sou uma estudante de Sistemas de Informação em busca de novos conhecimentos e desafios no mundo do desenvolvimento de software.
 </p>
 
 <p style="font-size: 16px;"> Atualmente estou aprendendo React, e aprimorando meus conhecimentos em desenvolvimento web</p>
