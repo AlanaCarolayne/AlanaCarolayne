@@ -34,6 +34,3 @@
 
 <p> Obrigado(a) por visitar meu perfil! Fique à vontade para explorar meus projetos e entrar em contato comigo.</p>
 
-
-
-![Snake animation](https://github.com/AlanaCarolayne/AlanaCarolayne/blob/output/github-contribution-grid-snake.svg)
